@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: hello2rk
+Version: 0.0.1
+Summary: first testing of packages
+Author-email: RK <rk@123.com>
+Requires-Python: >=3.8
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: datetime
