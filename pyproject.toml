@@ -1,8 +1,8 @@
 [project]
-name = "hello2rk"
+name = "hello"
 version = "0.0.1"
 description = "first testing of packages"
-requires-python = ">=3.8"
+requires-python = ">=3.11"
 authors = [
     {name = "RK", email = "rk@123.com"}
 ]
