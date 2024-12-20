@@ -2,7 +2,7 @@ LICENSE
 README.md
 pyproject.toml
 src/hello2rk/__init__.py
-src/hello2rk/hello2rk.py
+src/hello2rk/example.py
 src/hello2rk.egg-info/PKG-INFO
 src/hello2rk.egg-info/SOURCES.txt
 src/hello2rk.egg-info/dependency_links.txt
